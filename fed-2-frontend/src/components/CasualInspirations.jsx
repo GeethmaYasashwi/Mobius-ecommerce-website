@@ -8,7 +8,7 @@ function CasualInspirations() {
           apply on your daily activity.
         </p>
         <button className="mt-4 md:mt-8 text-center w-full h-10 md:h-12 rounded-full border border-black flex items-center justify-center text-sm sm:text-base">
-          BROWSE INPIRATIONS
+          BROWSE INSPIRATIONS
         </button>
       </div>
       <div className="relative col-span-1 md:col-span-3 h-60 sm:h-80 rounded-2xl">
