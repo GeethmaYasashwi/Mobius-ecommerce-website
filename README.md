@@ -1,6 +1,6 @@
 # PROJECT-NAME
 
-*Transform [Brief Description of What Your Project Does]*
+*Transform Shopping into Unforgettable Experience*
 
 ![last commit](https://img.shields.io/github/last-commit/GeethmaYasashwi/Mobius-ecommerce-website)
 ![language](https://img.shields.io/github/languages/top/GeethmaYasashwi/Mobius-ecommerce-website)
@@ -55,7 +55,6 @@ building feature-rich e-commerce applications. The core features include:
 - ☁️ **Cloud Storage Integration**: Efficient interaction with cloud storage (Cloudflare R2) for media management.
 
 - 🚀 **Developer-Focused**: Well-structured codebase, error handling, and configuration to accelerate development and onboarding.
-
 ---
 
 ## Getting Started
@@ -126,6 +125,3 @@ The application will be available at `http://localhost:5173` (or your configured
 
 
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - your.email@example.com
-
-Project Link: [https://github.com/yourusername/your-repo-name](https://github.com/yourusername/your-repo-name)
