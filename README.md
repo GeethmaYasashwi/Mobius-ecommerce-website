@@ -33,22 +33,26 @@
 ---
 
 ## Overview
+Mobius-ecommerce-website is a full-stack e-commerce platform built with the MERN stack, designed to
+streamline the development of scalable online stores. It combines a robust backend architecture with a
+modern React frontend, offering a comprehensive solution for product management, user authentication,
+and order processing.
 
-[Project Name] is a [brief description of what your project does]. It combines [key technologies] to provide [main benefit/solution].
+### Why Mobius-ecommerce-website?
 
-### Why [Project Name]?
+This project aims to provide developers with a modular, maintainable, and scalable foundation for
+building feature-rich e-commerce applications. The core features include:
 
-This project aims to provide developers with a [describe the main value proposition]. The core features include:
 
-- 🏗️ **Modular Architecture**: Clear separation of concerns with dedicated API endpoints, middleware, and data models for easy customization and extension.
+- 🏗️ **Modular Architecture**: Modular Architecture: Clear separation of concerns with dedicated API endpoints, middleware, and data models for easy customization and extension.
 
-- 🎨 **Modern UI Components**: A component-driven frontend built with [your framework], ensuring a responsive and engaging user experience.
+- 🎨 **React UI Components**: A component-driven frontend built with React and TailwindCSS, ensuring a responsive and engaging user experience.
 
-- 🔐 **Secure Authentication**: Role-based access control integrated with [auth solution], safeguarding sensitive routes and user data.
+- 🔐 **Secure Authentication**: Role-based access control integrated with Clerk, safeguardingsensitive routes and user data.
 
-- 🔄 **API & State Management**: Seamless data fetching, caching, and global state handling with [state management solution].
+- 🔄 **API & State Management**: eamless data fetching, caching, and global state handling with custom hooks and Redux.
 
-- ☁️ **Cloud Storage Integration**: Efficient interaction with cloud storage ([cloud provider]) for media management.
+- ☁️ **Cloud Storage Integration**: Efficient interaction with cloud storage (Cloudflare R2) for media management.
 
 - 🚀 **Developer-Focused**: Well-structured codebase, error handling, and configuration to accelerate development and onboarding.
 
@@ -60,19 +64,20 @@ This project aims to provide developers with a [describe the main value proposit
 
 This project requires the following dependencies:
 
-- **Programming Language**: [Language and version]
-- **Package Manager**: [Package manager name]
-- **Runtime**: [Runtime requirements]
-- **Database**: [Database requirements]
-
+- **Programming Language**: JavaScript
+- **Package Manager**:npm
+- **Database**: MongoDB
+- 
 ### Installation
 
-Build [Project Name] from the source and install dependencies:
+Build Mobius E-Commerce Website from the source and install dependencies:
 
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name
+git clone https://github.com/GeethmaYasashwi/Mobius-ecommerce-website
+
+
 ```
 
 2. **Navigate to the project directory:**
@@ -107,23 +112,9 @@ npm start
 yarn start
 ```
 
-The application will be available at `http://localhost:3000` (or your configured port).
+The application will be available at `http://localhost:5173` (or your configured port).
 
-### Testing
 
-[Project Name] uses the [test framework name] test framework. Run the test suite with:
-
-**Using npm:**
-```bash
-npm test
-```
-
-**Using yarn:**
-```bash
-yarn test
-```
-
----
 
 ## Contributing
 
