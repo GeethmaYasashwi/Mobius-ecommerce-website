@@ -2,9 +2,9 @@
 
 *Transform [Brief Description of What Your Project Does]*
 
-![last commit](https://img.shields.io/github/last-commit/username/repo-name)
-![language](https://img.shields.io/github/languages/top/username/repo-name)
-![languages](https://img.shields.io/github/languages/count/username/repo-name)
+![last commit](https://img.shields.io/github/last-commit/GeethmaYasashwi/Mobius-ecommerce-website)
+![language](https://img.shields.io/github/languages/top/GeethmaYasashwi/Mobius-ecommerce-website)
+![languages](https://img.shields.io/github/languages/count/GeethmaYasashwi/Mobius-ecommerce-website)
 
 ## Built with the tools and technologies:
 
