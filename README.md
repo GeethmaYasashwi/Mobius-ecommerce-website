@@ -1,4 +1,4 @@
-# PROJECT-NAME
+# Mobius : E-Commerce Platform
 
 *Transform Shopping into Unforgettable Experience*
 
@@ -66,7 +66,7 @@ This project requires the following dependencies:
 - **Programming Language**: JavaScript
 - **Package Manager**:npm
 - **Database**: MongoDB
-- 
+  
 ### Installation
 
 Build Mobius E-Commerce Website from the source and install dependencies:
